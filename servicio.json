@@ -118,6 +118,24 @@
       "url": "#",
       "precio": "59.99 $",
       "extralla": "2.2"
+    },
+    {
+      "id": "14",
+      "img": "https://thumbnail.pa-community.com/00_taquilla/media/27936/cover.jpg",
+      "title": " Crocodrile",
+      "detalle": "Entradas al instante",
+      "url": "#",
+      "precio": "59.99 $",
+      "extralla": "2.2"
+    },
+    {
+      "id": "15",
+      "img": "https://thumbnail.pa-community.com/00_taquilla/media/32/cover.jpg",
+      "title": " Faunia",
+      "detalle": "¡Sin cola en taquilla!",
+      "url": "#",
+      "precio": "59.99 $",
+      "extralla": "2.2"
     }
   ]
 }
