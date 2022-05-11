@@ -73,6 +73,51 @@
       "url": "#",
       "precio": "39.99 $",
       "extralla": "2.2"
+    },
+      {
+      "id": "9",
+      "img": "https://thumbnail.pa-community.com/00_taquilla/media/56/cover.png",
+      "title": "Aqualand El Arenal (Mallorca)",
+      "detalle": "Entradas al instante. Imprimir y listo",
+      "url": "#",
+      "precio": "39.99 $",
+      "extralla": "2.2"
+    },
+      {
+      "id": "10",
+      "img": "https://thumbnail.pa-community.com/00_taquilla/media/27891/cover.jpg",
+      "title": "Disneyland® París: Entradas 1 Día",
+      "detalle": "sin cola en taquilla",
+      "url": "#",
+      "precio": "59.99 $",
+      "extralla": "2.2"
+    },
+     {
+      "id": "11",
+      "img": "https://thumbnail.pa-community.com/00_taquilla/media/51/cover.jpg",
+      "title": "  Caribe Aquatic Park (PortAventura)",
+      "detalle": "Sin cola en taquillas! Impresa o en el móvil",
+      "url": "#",
+      "precio": "29.99 $",
+      "extralla": "2.2"
+    },
+       {
+      "id": "12",
+      "img": "https://thumbnail.pa-community.com/00_taquilla/media/2209/cover.jpg",
+      "title": "  LEGOLAND® Windsor",
+      "detalle": "Entradas al instante",
+      "url": "#",
+      "precio": "19.99 $",
+      "extralla": "2.2"
+    },
+       {
+      "id": "13",
+      "img": "https://thumbnail.pa-community.com/00_taquilla/media/28/cover.jpg",
+      "title": " Parque de la Naturaleza de Cabárceno",
+      "detalle": "Distribuidor Oficial. Entradas en tu móvil o impre...",
+      "url": "#",
+      "precio": "59.99 $",
+      "extralla": "2.2"
     }
   ]
 }
