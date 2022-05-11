@@ -1,0 +1,78 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "img": "https://thumbnail.pa-community.com/00_taquilla/media/404/cover.jpg",
+      "title": "Acuario de gijon",
+      "detalle": "Entrada al instante",
+      "url": "#",
+      "precio": "29.99 $",
+      "extralla": "4.2"
+    },
+   {
+      "id": "2",
+      "img": "https://thumbnail.pa-community.com/00_taquilla/media/43/cover.jpg",
+      "title": "Acuario de sevilla",
+      "detalle": "Imprimir y entrar. el parque no permite cambo ni devoluciones",
+      "url": "#",
+      "precio": "29.99 $",
+      "extralla": "5.2"
+    },
+   {
+      "id": "3",
+      "img": "https://thumbnail.pa-community.com/00_taquilla/media/122/cover.jpg",
+      "title": "Acuario de Zaragoza",
+      "detalle": "Imprimir en voleteria",
+      "url": "#",
+      "precio": "29.99 $",
+      "extralla": "3.2"
+    },
+   {
+       "id": "4",
+      "img": "https://thumbnail.pa-community.com/00_taquilla/media/2206/cover.jpg",
+      "title": "Alton Towers",
+      "detalle": "Entradas al instante",
+      "url": "#",
+      "precio": "19.99 $",
+      "extralla": "2.2"
+    },
+   {
+      "id": "5",
+      "img": "https://thumbnail.pa-community.com/00_taquilla/media/54/cover.jpg",
+      "title": " Aqua Natura Benidorm",
+      "detalle": "imprimir y listo",
+      "url": "#",
+      "precio": "49.99 $",
+      "extralla": "2.2"
+    },
+   {
+      "id": "6",
+      "img": "https://thumbnail.pa-community.com/00_taquilla/media/28125/cover.jpg",
+      "title": "Aquadiver (Platja D'Aro)",
+      "detalle": "Entradas al instante. Imprescindible impresas.",
+      "url": "#",
+      "precio": "39.99 $",
+      "extralla": "2.2"
+    },
+      
+    {
+      "id": "7",
+      "img": "https://thumbnail.pa-community.com/00_taquilla/media/566/cover.png",
+      "title": " Aqualand Bahía de Cádiz",
+      "detalle": "Puerto Santa Maria. Entradas al instante",
+      "url": "#",
+      "precio": "39.99 $",
+      "extralla": "2.2"
+    },
+      
+    {
+      "id": "8",
+      "img": "https://thumbnail.pa-community.com/00_taquilla/media/564/cover.jpg",
+      "title": "Aqualand Costa Adeje",
+      "detalle": "Entradas al instante. Imprimir y listo",
+      "url": "#",
+      "precio": "39.99 $",
+      "extralla": "2.2"
+    },
+  ]
+}
